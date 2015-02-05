@@ -3,6 +3,7 @@ angular-bootstrap-growl
 
 
 mouse0270/bootstrap-growl (https://github.com/mouse0270/bootstrap-growl) to AngularJS
+
 website : http://bootstrap-growl.remabledesigns.com/
 
 works with the new version Bootstrap Growl 2.0
